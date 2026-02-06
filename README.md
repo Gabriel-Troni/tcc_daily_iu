@@ -104,11 +104,11 @@ Este projeto está sob a licença especificada no arquivo `LICENSE`.
 
 Este projeto foi desenvolvido por estudantes do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** como Trabalho de Conclusão de Curso (TCC):
 
-- **Alisson Gabriel Santos**
-- **Gabriel Alamartini Troni**
-- **Leonardo Felipe Salgado**
-- **Pedro Henrique Souza**
-- **Raul Ferreira Bana**
+- **[Alisson Gabriel Santos](https://github.com/AlissonGSantos)**
+- **[Gabriel Alamartini Troni](https://github.com/Gabriel-Troni)**
+- **[Leonardo Felipe Salgado](https://github.com/Salgado2004)**
+- **[Pedro Henrique Souza](https://github.com/Pedro-H108)**
+- **[Raul Ferreira Bana](https://github.com/raulbana)**
 
 ## Agradecimentos Especiais
 
